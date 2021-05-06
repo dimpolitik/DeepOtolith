@@ -18,7 +18,7 @@ Our findings suggest that deep learning has the potential to support the automat
 
 The proposed approach is applied on a collection of 5027 otolith images of red mullet (Mullus barbatus) from Greel waters, considering fish age estimation as a multi-class classification task with six age groups (Age-0, Age-1, Age-2, Age-3, Age-4, Age-5+). Results showed that the network without multitask learning predicted fish age correctly by 64.4%, attaining high performance for younger age groups (Age-0 and Age-1, F1 score > 0.8) and moderate performance for older age groups (Age-2 to Age-5+, F1 score: 0.50-0.54). The network with multitask learning increased correctness in age prediction reaching 69.2% and proved efficient to leverage its predictive performance for older age groups (Age-2 to Age-5+, F1 score: 0.57-0.64). 
 
-![Farmers Market Finder Demo](otoliths.png)
+![](otoliths.png)
 
 ## References
 
