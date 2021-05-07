@@ -33,6 +33,10 @@ EPOCHS = 150
 
 LEARNING_RATE = 0.0004 
 
+AGE_WEIGHT = 1
+
+LENGTH_WEIGHT = 475
+
 # --- Import biological data --- #
 fish_biol = pd.read_csv('Biological_data.csv')
 fish_biol.columns = ['Image','Age','Length']
@@ -156,7 +160,7 @@ def build_train_model(x_train, x_test, train_generator1, val_generator1, y_train
                      'length': 'mean_squared_error'}, 
              metrics = {'age': 'accuracy',
                         'length': 'mean_squared_error'},
-             loss_weights = [1, 475]
+             loss_weights = [AGE_WEIGHT, LENGTH_WEIGHT]
                    )
           
      # Train the model
