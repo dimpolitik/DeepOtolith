@@ -24,6 +24,6 @@ The proposed approach is applied on a collection of 5027 otolith images of red m
 
 ## References
 
-* <a href="https://www.sciencedirect.com/science/article/pii/S0165783621001612" title="* Politikos, D.V., Petasis G., Chatzispyrou A., Mytilineou C., Anastasopoulou A. 2021. Automating fish age estimation combining otolith images and deep learning: 
-the role of multitask learning. Fisheries Research 242, 106033.">Politikos, D.V., Petasis G., Chatzispyrou A., Mytilineou C., Anastasopoulou A. 2021. Automating fish age estimation combining otolith images and deep learning: 
-the role of multitask learning. Fisheries Research 242, 106033.</a>
+* Ordoñes A. et al. 2020. Explaining decision of deep neural networks used for fish age prediction. PLoS ONE 15(6), e0235013.
+* Politikos D. et al. 2021. Automating fish age estimation combining otolith images and deep learning: the role of multitask learning. Fisheries Science 242, 106033.
+* Vabø R. et al. 2020. Automatic interpretation of salmon scales using deep learning. Ecological Informatics 63, 101322.
