@@ -24,7 +24,6 @@ The proposed approach is applied on a collection of 5027 otolith images of red m
 
 ## References
 
-* Politikos, D.V., Petasis G., Chatzispyrou A., Mytilineou C., Anastasopoulou A. 2021. Automating fish age estimation combining otolith images and deep learning: 
-the role of multitask learning. Fisheries Research 242, 106033.
-
-<a href="https://<user.name>.github.io/<repo.name>/about.html" title="About Me">About Me</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0165783621001612" title="* Politikos, D.V., Petasis G., Chatzispyrou A., Mytilineou C., Anastasopoulou A. 2021. Automating fish age estimation combining otolith images and deep learning: 
+the role of multitask learning. Fisheries Research 242, 106033.">* Politikos, D.V., Petasis G., Chatzispyrou A., Mytilineou C., Anastasopoulou A. 2021. Automating fish age estimation combining otolith images and deep learning: 
+the role of multitask learning. Fisheries Research 242, 106033.</a>
